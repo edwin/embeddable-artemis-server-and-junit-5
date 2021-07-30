@@ -1,4 +1,4 @@
-# Creating an Embeddable ActiveMQ Server using Artemis for Unit Testing
+# Creating an Embeddable JMS Server using Artemis for Unit Testing
 
 ## Tools
  - Java 11
