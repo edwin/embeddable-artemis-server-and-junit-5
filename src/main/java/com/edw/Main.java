@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * </pre>
  *
  * @author Muhammad Edwin < edwin at redhat dot com >
- * 30 Jul 2021 21:46
+ *
  */
 @SpringBootApplication
 public class Main {

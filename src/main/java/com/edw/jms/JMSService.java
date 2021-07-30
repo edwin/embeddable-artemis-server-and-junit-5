@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
  * </pre>
  *
  * @author Muhammad Edwin < edwin at redhat dot com >
- * 30 Jul 2021 21:53
+ *
  */
 @Service
 public class JMSService {

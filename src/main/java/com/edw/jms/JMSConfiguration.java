@@ -16,7 +16,7 @@ import javax.jms.ConnectionFactory;
  * </pre>
  *
  * @author Muhammad Edwin < edwin at redhat dot com >
- * 30 Jul 2021 21:52
+ *
  */
 @Configuration
 public class JMSConfiguration {
